@@ -1,5 +1,5 @@
 ### Build
-- `mvn  package`
+- `mvn clean install`
 
 ### Test
-- `mvn  test`
+- `mvn clean test`
